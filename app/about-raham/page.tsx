@@ -29,7 +29,7 @@ export default function AboutRahamPage() {
           <div className="relative inline-block mb-8">
             <div className="w-40 h-40 rounded-full border-4 border-blue-500 shadow-2xl overflow-hidden mx-auto">
               <img
-                src="/professional-electrician-headshot.png"
+                src="/professional-electrician-headshot.jpg"
                 alt="Raham Shaik - Lead Electrician"
                 className="w-full h-full object-cover"
                 onError={(e) => {

@@ -16,7 +16,7 @@ export default function AboutRahamSection() {
 
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center mb-12">
-          <Badge className="mb-4 bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 text-base font-medium">Meet Our Founder</Badge>
+          {/* <Badge className="mb-4 bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 text-base font-medium">Meet Our Founder</Badge> */}
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4 text-balance">
             About <span className="text-blue-600">Raham Shaik</span>
           </h2>
@@ -44,7 +44,7 @@ export default function AboutRahamSection() {
                     <div className="relative">
                       <div className="w-32 h-32 rounded-full border-4 border-white shadow-xl overflow-hidden">
                         <img
-                          src="/professional-electrician-headshot.png"
+                          src="/professional-electrician-headshot.jpg"
                           alt="Raham Shaik - Lead Electrician"
                           className="w-full h-full object-cover"
                           onError={(e) => {
