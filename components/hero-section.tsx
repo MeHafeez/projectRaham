@@ -92,16 +92,16 @@ export default function HeroSection() {
           <span className="text-secondary">Raham Electro</span> - Professional Electrical Services
         </h1>
 
-        <p className="text-xl md:text-2xl text-muted-foreground mb-10 max-w-4xl mx-auto text-pretty">
+        <p className="text-xl md:text-2xl text-secondary mb-10 max-w-4xl mx-auto text-pretty">
           Led by Raham Shaik with over 10 years of expertise in apartments, houses, and critical electrical projects
         </p>
 
-        <p className="text-lg text-muted-foreground mb-16 max-w-3xl mx-auto text-pretty">
+        <p className="text-lg text-secondary mb-16 max-w-3xl mx-auto text-pretty">
           Delivering reliable and efficient electrical solutions while adhering to the highest safety standards and
           regulations
         </p>
 
-        <ParallaxContainer speed={0.05}>
+        {/* <ParallaxContainer speed={0.05}>
           <div className="flex flex-col sm:flex-row gap-6 justify-center mb-20">
             <Button size="lg" className="text-lg px-10 py-5">
               Get Free Quote
@@ -110,7 +110,7 @@ export default function HeroSection() {
               View Our Work
             </Button>
           </div>
-        </ParallaxContainer>
+        </ParallaxContainer> */}
 
         <ParallaxContainer speed={0.2}>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-10 max-w-5xl mx-auto">
