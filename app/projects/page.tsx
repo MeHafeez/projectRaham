@@ -13,7 +13,7 @@ const allProjects = [
     title: "Modern Smart Home Installation",
     category: "Residential",
     location: "Downtown District",
-    date: "2024",
+    date: "2025",
     description:
       "Complete electrical rewiring with smart home automation, LED lighting systems, and energy-efficient panel upgrade.",
     image: "/modern-smart-home-electrical-installation.png",
@@ -24,7 +24,7 @@ const allProjects = [
     title: "Commercial Office Complex",
     category: "Commercial",
     location: "Business Park",
-    date: "2024",
+    date: "2025",
     description:
       "Large-scale electrical infrastructure for 50,000 sq ft office complex with advanced lighting controls and backup systems.",
     image: "/placeholder-l81wi.png",
@@ -56,7 +56,7 @@ const allProjects = [
     title: "Solar Panel Integration",
     category: "Renewable",
     location: "Suburban Area",
-    date: "2024",
+    date: "2025",
     description: "Complete solar panel system installation with battery backup and grid-tie capabilities.",
     image: "/solar-panel-electrical-installation.png",
     features: ["Solar Integration", "Battery Backup", "Grid-Tie", "Energy Storage"],
@@ -76,7 +76,7 @@ const allProjects = [
     title: "Industrial Warehouse Lighting",
     category: "Industrial",
     location: "Manufacturing District",
-    date: "2024",
+    date: "2025",
     description:
       "High-bay LED lighting installation with motion sensors and energy management systems for 100,000 sq ft warehouse.",
     image: "/industrial-warehouse-led-lighting-installation.png",
@@ -98,7 +98,7 @@ const allProjects = [
     title: "Hospital Emergency Power",
     category: "Emergency",
     location: "Medical Center",
-    date: "2024",
+    date: "2025",
     description:
       "Critical power infrastructure for hospital including UPS systems, generators, and automatic transfer switches.",
     image: "/hospital-emergency-power-generator-system.png",
@@ -120,7 +120,7 @@ const allProjects = [
     title: "Wind Farm Connection",
     category: "Renewable",
     location: "Rural Area",
-    date: "2024",
+    date: "2025",
     description:
       "Electrical infrastructure for wind farm including high-voltage connections and grid integration systems.",
     image: "/wind-farm-electrical-grid-connection-high-voltage.png",
@@ -131,7 +131,7 @@ const allProjects = [
     title: "Data Center Power",
     category: "Industrial",
     location: "Tech Park",
-    date: "2024",
+    date: "2025",
     description:
       "Mission-critical power infrastructure for data center including redundant systems and cooling integration.",
     image: "/data-center-electrical-power-infrastructure-server.png",

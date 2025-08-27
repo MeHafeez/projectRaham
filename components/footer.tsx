@@ -20,15 +20,15 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-3 text-base">
                 <Phone className="w-5 h-5 text-secondary" />
-                <span>(555) 123-4567</span>
+                <span>+91 9182389553</span>
               </div>
               <div className="flex items-center gap-3 text-base">
                 <Mail className="w-5 h-5 text-secondary" />
-                <span>info@rahamelectro.com</span>
+                <span>rahamelectro@gmail.com</span>
               </div>
               <div className="flex items-center gap-3 text-base">
                 <MapPin className="w-5 h-5 text-secondary" />
-                <span>Greater Metro Area</span>
+                <span>Guntur And Vijayawada</span>
               </div>
             </div>
           </div>
@@ -133,7 +133,7 @@ export default function Footer() {
         <div className="border-t border-primary-foreground/20 mt-16 pt-10">
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <p className="text-primary-foreground/60 text-center md:text-left text-base">
-              © 2024 Raham Electro. All rights reserved. Licensed & Insured Electrical Contractor.
+              © 2025 Raham Electro. All rights reserved. Licensed & Insured Electrical Contractor.
             </p>
             <div className="flex items-center gap-3">
               <span className="text-primary-foreground/60 text-base">Website by</span>

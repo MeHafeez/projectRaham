@@ -111,7 +111,7 @@ export default function AboutRahamPage() {
                     <div className="text-gray-600 text-sm">Years Experience</div>
                   </div>
                   <div>
-                    <div className="text-3xl font-bold text-yellow-600 mb-1">500+</div>
+                    <div className="text-3xl font-bold text-yellow-600 mb-1">199+</div>
                     <div className="text-gray-600 text-sm">Projects Completed</div>
                   </div>
                   <div>

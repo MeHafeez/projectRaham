@@ -14,7 +14,7 @@ const projectsData = {
     title: "Modern Smart Home Installation",
     category: "Residential",
     location: "Downtown District",
-    date: "2024",
+    date: "2025",
     description:
       "Complete electrical rewiring with smart home automation, LED lighting systems, and energy-efficient panel upgrade.",
     features: ["Smart Switches", "LED Lighting", "Panel Upgrade", "Home Automation"],
@@ -32,7 +32,7 @@ const projectsData = {
     title: "Commercial Office Complex",
     category: "Commercial",
     location: "Business Park",
-    date: "2024",
+    date: "2025",
     description:
       "Large-scale electrical infrastructure for 50,000 sq ft office complex with advanced lighting controls and backup systems.",
     features: ["Industrial Wiring", "Emergency Systems", "LED Retrofit", "Code Compliance"],
@@ -83,7 +83,7 @@ const projectsData = {
     title: "Solar Panel Integration",
     category: "Renewable",
     location: "Suburban Area",
-    date: "2024",
+    date: "2025",
     description: "Complete solar panel system installation with battery backup and grid-tie capabilities.",
     features: ["Solar Integration", "Battery Backup", "Grid-Tie", "Energy Storage"],
     images: [

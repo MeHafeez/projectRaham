@@ -32,7 +32,7 @@ export default function SchedulePage() {
 
   const handleWhatsAppChat = () => {
     const message = encodeURIComponent("Hi! I'd like to schedule an electrical service consultation.")
-    window.open(`https://wa.me/+1234567890?text=${message}`, "_blank")
+    window.open(`https://wa.me/9182389553?text=${message}`, "_blank")
   }
 
   return (
@@ -180,8 +180,8 @@ export default function SchedulePage() {
                   <Phone className="w-5 h-5 text-blue-600" />
                   <div>
                     <p className="font-medium">Call Us Now</p>
-                    <a href="tel:+1234567890" className="text-blue-600 hover:underline">
-                      +1 (234) 567-8900
+                    <a href="tel:9182389553" className="text-blue-600 hover:underline">
+                      +91 9182389553
                     </a>
                   </div>
                 </div>
@@ -190,8 +190,8 @@ export default function SchedulePage() {
                   <Mail className="w-5 h-5 text-blue-600" />
                   <div>
                     <p className="font-medium">Email Us</p>
-                    <a href="mailto:info@rahamelectro.com" className="text-blue-600 hover:underline">
-                      info@rahamelectro.com
+                    <a href="mailto:rahamelectro@gmail.com" className="text-blue-600 hover:underline">
+                      rahamelectro@gmail.com
                     </a>
                   </div>
                 </div>

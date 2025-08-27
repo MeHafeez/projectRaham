@@ -26,7 +26,7 @@ export default function ContactSection() {
                 {/* WhatsApp Chat Button */}
                 <div className="mb-10">
                   <a
-                    href="https://wa.me/5551234567?text=Hi%20Raham%20Electro,%20I%20need%20electrical%20services"
+                    href="https://wa.me/9182389553?text=Hi%20Raham%20Electro,%20I%20need%20electrical%20services"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-4 bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-lg font-semibold transition-colors text-lg"
@@ -65,22 +65,22 @@ export default function ContactSection() {
                     >
                       <Instagram className="w-6 h-6" />
                     </a>
-                    <a
+                    {/* <a
                       href="https://twitter.com/rahamelectro"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="p-4 rounded-full bg-blue-400 hover:bg-blue-500 text-white transition-colors"
                     >
                       <Twitter className="w-6 h-6" />
-                    </a>
-                    <a
+                    </a> */}
+                    {/* <a
                       href="https://linkedin.com/company/rahamelectro"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="p-4 rounded-full bg-blue-700 hover:bg-blue-800 text-white transition-colors"
                     >
                       <Linkedin className="w-6 h-6" />
-                    </a>
+                    </a> */}
                   </div>
                 </div>
               </CardContent>
@@ -97,7 +97,7 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <h4 className="font-semibold mb-2 text-lg">Phone</h4>
-                    <p className="text-muted-foreground text-base">(555) 123-4567</p>
+                    <p className="text-sm text-secondary">+91 9182389553</p>
                     <p className="text-sm text-secondary">24/7 Emergency Line</p>
                   </div>
                 </div>
@@ -112,7 +112,7 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <h4 className="font-semibold mb-2 text-lg">Email</h4>
-                    <p className="text-muted-foreground text-base">info@rahamelectro.com</p>
+                    <p className="text-sm text-secondary">rahamelectro@gmail.com</p>
                     <p className="text-sm text-secondary">We respond within 2 hours</p>
                   </div>
                 </div>
@@ -127,7 +127,7 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <h4 className="font-semibold mb-2 text-lg">Service Area</h4>
-                    <p className="text-muted-foreground text-base">Greater Metro Area</p>
+                    <p className="text-sm text-secondary">Guntur And Vijayawada</p>
                     <p className="text-sm text-secondary">50+ mile radius</p>
                   </div>
                 </div>
@@ -142,8 +142,8 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <h4 className="font-semibold mb-2 text-lg">Business Hours</h4>
-                    <p className="text-muted-foreground text-base">Mon-Fri: 7AM-6PM</p>
-                    <p className="text-muted-foreground text-base">Sat: 8AM-4PM</p>
+                    <p className="text-sm text-secondary">Mon-Fri: 7AM-6PM</p>
+                    <p className="text-sm text-secondary">Sat: 8AM-4PM</p>
                     <p className="text-sm text-secondary">Emergency service available 24/7</p>
                   </div>
                 </div>
